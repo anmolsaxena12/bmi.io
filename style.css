@@ -1,0 +1,36 @@
+
+.container-fluid{
+  background-size: cover;
+}
+h1, p{
+  text-align: center;
+  padding: 0.5em;
+}
+p{
+  color:#0f3460;
+  background: rgba(255,255,255,0.8)
+}
+h1{
+  color: #e94560;
+}
+#content{
+  text-align:center;
+  margin: 2% 15%;
+  color: #ffF4F0;
+}
+input, label{
+  padding: 0.3em;
+  font-size: 1.5em;
+  margin: 0.5em;
+}
+#result{
+  text-align: center;
+  margin: 0 auto 0;
+}
+.footer{
+  font-size: 1em;
+  color: white;
+  position: absolute;
+  bottom: 5px;
+  right: 10%;
+}
